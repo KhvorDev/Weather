@@ -1,0 +1,11 @@
+html, body {
+    font-family: serif;
+}
+body {
+    margin: 20px;
+}
+
+.weather-body {
+    display: flex;
+    justify-content: space-between;
+}
